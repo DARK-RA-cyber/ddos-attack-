@@ -23,7 +23,7 @@ pkg install git
 pip install bs4
 git clone https://github.com/DARK-RA-cyber/ddos-attack-
 cd ddos-attack-
-python ddos_.py
+python ddos.py
 ```
 # Tool Password:â¬‡ï¸
 ```
