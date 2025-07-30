@@ -2,7 +2,8 @@
 #--------HEY BRO WASSUP--------
 #--------------------------------------------------
 #Encoder : DARK-RA
-#Facebook : MUHAMMAD RONI AKANDO
+#Facebook page  : DARK RA CYBER
+#Facebook group :DARK-RA-CYBER
 #GitHub : DARK-RA-cyber
 #Telegram : DARK_RA12
 #--------------------------------------------------
