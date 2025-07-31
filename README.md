@@ -27,12 +27,12 @@ python ddos.py
 ```
 # Tool Password:â¬‡ï¸
 ```
-DARK-RA
+DARK RA CYBER
 ```
 
 
 #### SCREENSHOT: ⬇️
-![logo](https://github.com/DARK-RA-cyber/ddos-attack-/blob/main/Screenshot_2024-10-24-13-23-38-660_com.termux.jpg)
+![logo](https://github.com/DARK-RA-cyber/ddos-attack-/blob/main/Screenshot_2025-07-31-12-27-18-918_com.termux.jpg)
 
-<h3> follow me my Facebook  For Tool's Password</h3>
-<h5>id  Link➛ <a href="https://www.facebook.com/MUHAMMAD.RONI.AKONDO?mibextid=ZbWKwL">Click Here</a></h5>
+<h3> follow me my Facebook page  For Tool's Password</h3>
+<h5>id  Link➛ <a href="https://www.facebook.com/profile.php?id=61578165737556>Click Here</a></h5>
